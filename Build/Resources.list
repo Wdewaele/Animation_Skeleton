@@ -1,0 +1,2027 @@
+
+
+Resources
+{
+  
+  Resource
+  {
+    path = "Determinism/eyewhite.mat"
+    size = 128
+    
+    Dependency
+    {
+      path = "Determinism/frogmap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/Frog.msh"
+    size = 1791429
+    
+    Dependency
+    {
+      path = "Determinism/skin.mat"
+    }
+    
+    Dependency
+    {
+      path = "Determinism/pupil.mat"
+    }
+    
+    Dependency
+    {
+      path = "Determinism/Preview.mat"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/GECKO/GECKO.dds"
+    size = 54528
+  }
+  
+  Resource
+  {
+    path = "Determinism/GECKO/GECKO.msh"
+    size = 368472
+  }
+  
+  Resource
+  {
+    path = "Determinism/GECKO/gek_body.mat"
+    size = 139
+    
+    Dependency
+    {
+      path = "Determinism/GECKO/images/gecko.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/GECKO/gek_eye.mat"
+    size = 57
+  }
+  
+  Resource
+  {
+    path = "Determinism/GECKO/gek_iris.mat"
+    size = 140
+    
+    Dependency
+    {
+      path = "Determinism/GECKO/images/eye_a3.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/innerMouth.mat"
+    size = 128
+    
+    Dependency
+    {
+      path = "Determinism/frogmap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/Kertenkele/04527-10669.dds"
+    size = 813248
+  }
+  
+  Resource
+  {
+    path = "Determinism/Kertenkele/Kertenkele.msh"
+    size = 16
+  }
+  
+  Resource
+  {
+    path = "Determinism/Kertenkele/Kertenkele0001.dds"
+    size = 518528
+  }
+  
+  Resource
+  {
+    path = "Determinism/Kertenkele/Kertenkele0002.dds"
+    size = 518528
+  }
+  
+  Resource
+  {
+    path = "Determinism/Kertenkele/Material.001.mat"
+    size = 57
+  }
+  
+  Resource
+  {
+    path = "Determinism/Kertenkele/Material.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Determinism/Kertenkele/04527-10669.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/Preview.mat"
+    size = 57
+  }
+  
+  Resource
+  {
+    path = "Determinism/pupil.mat"
+    size = 128
+    
+    Dependency
+    {
+      path = "Determinism/frogmap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Determinism/skin.mat"
+    size = 128
+    
+    Dependency
+    {
+      path = "Determinism/frogmap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "detour.program"
+    size = 198
+    
+    Dependency
+    {
+      path = "detourvertex.vs"
+    }
+    
+    Dependency
+    {
+      path = "detourfragment.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "detourfragment.ps"
+    size = 537
+  }
+  
+  Resource
+  {
+    path = "detourvertex.vs"
+    size = 970
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_Universal_TeethClean_DiffuseMap.dds"
+    size = 87536
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_Universal_TeethClean_SpecularMap.dds"
+    size = 43832
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_ArmShield_R3_DiffuseMap.dds"
+    size = 349680
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_ArmShield_R3_SpecularMap.dds"
+    size = 43832
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_ArmShield_R4_DiffuseMap.dds"
+    size = 87536
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Blason_DiffuseMap.dds"
+    size = 43856
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Blason_SpecularMap.dds"
+    size = 5608
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Boots_R3-4_DiffuseMap.dds"
+    size = 174928
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Boots_R3-4_SpecularMap.dds"
+    size = 11064
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Bracer_a_DiffuseMap.dds"
+    size = 174904
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Bracer_a_SpecularMap.dds"
+    size = 11064
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Chest_R3_DiffuseMap.dds"
+    size = 349672
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    size = 349680
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Clothes_Down_SpecularMap.dds"
+    size = 11064
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Clothes_Top_DiffuseMap.dds"
+    size = 699192
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Gant_DiffuseMap.dds"
+    size = 87536
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_ezio_Head_Old_DiffuseMap.dds"
+    size = 174904
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_HiddenBladeGun_DiffuseMap.dds"
+    size = 11064
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_Poutch_a_DiffuseMap.dds"
+    size = 87536
+  }
+  
+  Resource
+  {
+    path = "Ezio/CR_U_Ezio_ShoulderPad_R3_DiffuseMap.dds"
+    size = 174928
+  }
+  
+  Resource
+  {
+    path = "Ezio/CU_EzioFlorentin_Hair_Textures_DiffuseMap.dds"
+    size = 174928
+  }
+  
+  Resource
+  {
+    path = "Ezio/Ezio.msh"
+    size = 2397427
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material001.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material002.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material003.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material004.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material005.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material006.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material007.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material008.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material009.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material010.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material011.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material012.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material013.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material014.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material015.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material016.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material017.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material018.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material019.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material020.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material021.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material022.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material023.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material024.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material025.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material026.mat"
+    }
+    
+    Dependency
+    {
+      path = "Ezio/Model001_Material027.mat"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material001.mat"
+    size = 146
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Top_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material002.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_ezio_Head_Old_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material003.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_ezio_Head_Old_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material004.mat"
+    size = 146
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Top_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material005.mat"
+    size = 146
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Top_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material006.mat"
+    size = 126
+    
+    Dependency
+    {
+      path = "Ezio/eyes_diffuse.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material007.mat"
+    size = 148
+    
+    Dependency
+    {
+      path = "Ezio/CR_Universal_TeethClean_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material008.mat"
+    size = 144
+    
+    Dependency
+    {
+      path = "Ezio/Universal_Male_Hand_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material009.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material010.mat"
+    size = 149
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_HiddenBladeGun_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material011.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material012.mat"
+    size = 145
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Boots_R3-4_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material013.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material014.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material015.mat"
+    size = 146
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Top_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material016.mat"
+    size = 139
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Gant_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material017.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_ArmShield_R3_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material018.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Bracer_a_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material019.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Bracer_a_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material020.mat"
+    size = 146
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Top_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material021.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material022.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Chest_R3_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material023.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material024.mat"
+    size = 147
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Clothes_Down_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material025.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Poutch_a_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material026.mat"
+    size = 141
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_Blason_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Model001_Material027.mat"
+    size = 149
+    
+    Dependency
+    {
+      path = "Ezio/CR_U_Ezio_ShoulderPad_R3_DiffuseMap.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Ezio/Universal_Male_Hand_DiffuseMap.dds"
+    size = 87528
+  }
+  
+  Resource
+  {
+    path = "Ezio/Universal_Male_Hand_SpecularMap.dds"
+    size = 21992
+  }
+  
+  Resource
+  {
+    path = "font.ttf"
+    size = 367112
+  }
+  
+  Resource
+  {
+    path = "fragment.ps"
+    size = 1012
+  }
+  
+  Resource
+  {
+    path = "Interior/03___Default.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/20___Default.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/crome.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/double_sopha_wood_right_texture.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/floor.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Interior/floor_texture.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/house.msh"
+    size = 5179752
+    
+    Dependency
+    {
+      path = "Interior/floor_texture.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/wire_115115115.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/texture_1.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/texture_2.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/crome.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/table_wood_texture.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/sopha_wood_texture.mat"
+    }
+    
+    Dependency
+    {
+      path = "Interior/double_sopha_wood_right_texture.mat"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/sopha_wood_texture.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/table_wood_texture.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/texture_1.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/texture_2.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Interior/wire_115115115.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Interior/floor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "meca.msh"
+    size = 102844
+  }
+  
+  Resource
+  {
+    path = "shader.program"
+    size = 447
+    
+    Dependency
+    {
+      path = "vertex.vs"
+    }
+    
+    Dependency
+    {
+      path = "fragment.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "skinning.program"
+    size = 885
+    
+    Dependency
+    {
+      path = "skinning.vs"
+    }
+    
+    Dependency
+    {
+      path = "skinning.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "skinning.ps"
+    size = 990
+  }
+  
+  Resource
+  {
+    path = "skinning.vs"
+    size = 1990
+  }
+  
+  Resource
+  {
+    path = "SK_Mannequin.msh"
+    size = 1761056
+  }
+  
+  Resource
+  {
+    path = "Sponza/16___Default.mat"
+    size = 132
+    
+    Dependency
+    {
+      path = "Sponza/textures/gi_flag.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/arch.mat"
+    size = 141
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_arch_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/bricks.mat"
+    size = 144
+    
+    Dependency
+    {
+      path = "Sponza/textures/spnza_bricks_a_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/ceiling.mat"
+    size = 146
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_ceiling_a_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/chain.mat"
+    size = 138
+    
+    Dependency
+    {
+      path = "Sponza/textures/chain_texture.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/column_a.mat"
+    size = 145
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_column_a_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/column_b.mat"
+    size = 145
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_column_b_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/column_c.mat"
+    size = 145
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_column_c_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/details.mat"
+    size = 144
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_details_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/fabric_a.mat"
+    size = 143
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_fabric_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/fabric_c.mat"
+    size = 144
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_curtain_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/fabric_d.mat"
+    size = 148
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_fabric_blue_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/fabric_e.mat"
+    size = 149
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_fabric_green_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/fabric_f.mat"
+    size = 150
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_curtain_green_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/fabric_g.mat"
+    size = 149
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_curtain_blue_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/flagpole.mat"
+    size = 145
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_flagpole_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/floor.mat"
+    size = 144
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_floor_a_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/leaf.mat"
+    size = 142
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_thorn_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/Material__25.mat"
+    size = 129
+    
+    Dependency
+    {
+      path = "Sponza/textures/lion.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/Material__298.mat"
+    size = 135
+    
+    Dependency
+    {
+      path = "Sponza/textures/background.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/Material__47.mat"
+    size = 57
+  }
+  
+  Resource
+  {
+    path = "Sponza/Material__57.mat"
+    size = 135
+    
+    Dependency
+    {
+      path = "Sponza/textures/vase_plant.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/roof.mat"
+    size = 141
+    
+    Dependency
+    {
+      path = "Sponza/textures/sponza_roof_diff.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/sponza.msh"
+    size = 21499221
+    
+    Dependency
+    {
+      path = "Sponza/leaf.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/vase_round.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/Material__298.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/bricks.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/arch.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/ceiling.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/column_a.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/floor.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/column_c.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/details.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/column_b.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/Material__47.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/flagpole.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/fabric_e.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/fabric_d.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/fabric_a.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/fabric_g.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/fabric_c.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/fabric_f.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/chain.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/vase_hanging.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/vase.mat"
+    }
+    
+    Dependency
+    {
+      path = "Sponza/roof.mat"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/background.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/background_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/chain_texture.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/chain_texture_ddn.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/chain_texture_mask.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/lion.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/lion2_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/lion_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/spnza_bricks_a_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/spnza_bricks_a_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/spnza_bricks_a_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_arch_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_arch_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_arch_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_ceiling_a_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_ceiling_a_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_a_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_a_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_a_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_b_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_b_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_b_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_c_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_c_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_column_c_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_curtain_blue_diff.dds"
+    size = 4194432
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_curtain_diff.dds"
+    size = 4194432
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_curtain_green_diff.dds"
+    size = 4194432
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_details_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_details_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_fabric_blue_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_fabric_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_fabric_green_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_fabric_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_flagpole_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_flagpole_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_floor_a_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_floor_a_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_roof_diff.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_thorn_ddn.dds"
+    size = 65664
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_thorn_diff.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_thorn_mask.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/sponza_thorn_spec.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_dif.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_hanging.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_plant.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_plant_mask.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_plant_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_round.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_round_ddn.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/textures/vase_round_spec.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Sponza/vase.mat"
+    size = 133
+    
+    Dependency
+    {
+      path = "Sponza/textures/vase_dif.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/vase_hanging.mat"
+    size = 137
+    
+    Dependency
+    {
+      path = "Sponza/textures/vase_hanging.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Sponza/vase_round.mat"
+    size = 135
+    
+    Dependency
+    {
+      path = "Sponza/textures/vase_round.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "tex.program"
+    size = 743
+    
+    Dependency
+    {
+      path = "vertex.vs"
+    }
+    
+    Dependency
+    {
+      path = "white.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "text.program"
+    size = 677
+    
+    Dependency
+    {
+      path = "vertex.vs"
+    }
+    
+    Dependency
+    {
+      path = "text.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "text.ps"
+    size = 772
+  }
+  
+  Resource
+  {
+    path = "text.vs"
+    size = 1041
+  }
+  
+  Resource
+  {
+    path = "ThirdPersonRun.anim"
+    size = 46868
+  }
+  
+  Resource
+  {
+    path = "ThirdPersonRun.skel"
+    size = 4216
+  }
+  
+  Resource
+  {
+    path = "ThirdPersonWalk.anim"
+    size = 76148
+  }
+  
+  Resource
+  {
+    path = "ThirdPersonWalk.skel"
+    size = 4216
+  }
+  
+  Resource
+  {
+    path = "Vanquish/dirtyinnersuit_d.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Vanquish/dirtyoutersuitlower_d.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/dirtyoutersuitlower_n.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/dirtyoutersuitupper_d.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/dirtyoutersuitupper_n.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/dirt_null.dds"
+    size = 192
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Innersuit_d.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Innersuit_n.dds"
+    size = 262272
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Model001_Material001.mat"
+    size = 134
+    
+    Dependency
+    {
+      path = "Vanquish/dirtyinnersuit_d.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Model001_Material002.mat"
+    size = 134
+    
+    Dependency
+    {
+      path = "Vanquish/dirtyinnersuit_d.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Model001_Material003.mat"
+    size = 139
+    
+    Dependency
+    {
+      path = "Vanquish/dirtyoutersuitlower_d.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Model001_Material004.mat"
+    size = 139
+    
+    Dependency
+    {
+      path = "Vanquish/dirtyoutersuitupper_d.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Model001_Material005.mat"
+    size = 123
+    
+    Dependency
+    {
+      path = "Vanquish/Visor.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Model001_Material006.mat"
+    size = 139
+    
+    Dependency
+    {
+      path = "Vanquish/dirtyoutersuitupper_d.dds"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/norm_null.dds"
+    size = 192
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Outersuitlower_d.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Outersuitlower_n.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Outersuitupper_d.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Outersuitupper_n.dds"
+    size = 1048704
+  }
+  
+  Resource
+  {
+    path = "Vanquish/vanquish.msh"
+    size = 1461502
+    
+    Dependency
+    {
+      path = "Vanquish/Model001_Material001.mat"
+    }
+    
+    Dependency
+    {
+      path = "Vanquish/Model001_Material002.mat"
+    }
+    
+    Dependency
+    {
+      path = "Vanquish/Model001_Material003.mat"
+    }
+    
+    Dependency
+    {
+      path = "Vanquish/Model001_Material004.mat"
+    }
+    
+    Dependency
+    {
+      path = "Vanquish/Model001_Material005.mat"
+    }
+    
+    Dependency
+    {
+      path = "Vanquish/Model001_Material006.mat"
+    }
+  }
+  
+  Resource
+  {
+    path = "Vanquish/vanquish1.dds"
+    size = 518128
+  }
+  
+  Resource
+  {
+    path = "Vanquish/Visor.dds"
+    size = 131200
+  }
+  
+  Resource
+  {
+    path = "vertex.vs"
+    size = 1228
+  }
+  
+  Resource
+  {
+    path = "vr.program"
+    size = 222
+    
+    Dependency
+    {
+      path = "vr.vs"
+    }
+    
+    Dependency
+    {
+      path = "vr.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "vr.ps"
+    size = 350
+  }
+  
+  Resource
+  {
+    path = "vr.vs"
+    size = 915
+  }
+  
+  Resource
+  {
+    path = "white.program"
+    size = 748
+    
+    Dependency
+    {
+      path = "vertex.vs"
+    }
+    
+    Dependency
+    {
+      path = "whitecolor.ps"
+    }
+  }
+  
+  Resource
+  {
+    path = "white.ps"
+    size = 1027
+  }
+  
+  Resource
+  {
+    path = "whitecolor.ps"
+    size = 961
+  }
+}
